@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 27 23:42:06 2021
 
-@author: hp
-"""
 
 import project_scraper as ps
 import pandas as pd
